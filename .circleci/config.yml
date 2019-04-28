@@ -1,4 +1,4 @@
-version: 2.1
+version: 2
 jobs:
   build:
     machine: true
@@ -6,12 +6,12 @@ jobs:
       - checkout
       - run: docker-compose up -d
       - run:
-        name: Waiting for Elasticsearch to be ready
-        command: |
-          for i in `seq 1 10`;
-          do
-            nc -z localhost 9200 && echo Success && exit 0
-            echo -n .
-            sleep 1
-          done
-          echo Failed waiting for Elasticsearch && exit 1
+          name: Waiting for Elasticsearch to be ready
+          command: |
+            for i in `seq 1 10`;
+            do
+              nc -z localhost 9200 && echo Success && exit 0
+              echo -n .
+              sleep 1
+            done
+            echo Failed waiting for Elasticsearch && exit 1
