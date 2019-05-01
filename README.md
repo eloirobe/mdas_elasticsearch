@@ -1,7 +1,7 @@
 [![CircleCI](https://circleci.com/gh/eloirobe/mdas_elasticsearch.svg?style=svg)](https://circleci.com/gh/eloirobe/mdas_elasticsearch)
 
-# MDAS NoSQL Elasticsearch <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt6ae3d6980b5fd629/5bbca1d1af3a954c36f95ed3/logo-elastic.svg" width="100"/>
-Bienvenidos a la imagen de Elasticsearch para a la asignatura de NoSQL del master [Máster en Desarrollo y Arquitectura de Software (MDAS)](https://www.salleurl.edu/es/estudios/master-en-desarrollo-y-arquitectura-software)
+# MDAS Bases de datos no estructuradas - Elasticsearch <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt6ae3d6980b5fd629/5bbca1d1af3a954c36f95ed3/logo-elastic.svg" width="100"/>
+Bienvenidos a la imagen de Elasticsearch para a la asignatura de Bases de datos no estructuradas del master [Máster en Desarrollo y Arquitectura de Software (MDAS)](https://www.salleurl.edu/es/estudios/master-en-desarrollo-y-arquitectura-software)
 
 Para arrancar el Elasticsearch y empezar a utilizar la imagen de docker realizar lo siguiente:
 
