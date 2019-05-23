@@ -1,0 +1,1 @@
+{"snapshots":[{"name":"snapshot_1","uuid":"ly19SjrJSQWSYa-GoW11mw","state":1}],"indices":{"nyc_restaurants_inspection":{"id":"JmMsnp2vT-unXMQW16aJog","snapshots":["ly19SjrJSQWSYa-GoW11mw"]},"amazon_reviews":{"id":"yfC352fYRAmsPhQEMRuIcg","snapshots":["ly19SjrJSQWSYa-GoW11mw"]}}}
